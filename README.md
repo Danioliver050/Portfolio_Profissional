@@ -1,2 +1,3 @@
 # Portfolio_Profissional
-Portfolio com projetos profissionais
+
+Portfólio pra exibir projetos que fiz, ou contribui, profissionalmente.
