@@ -1,0 +1,40 @@
+# IntelliJ IDEA
+/.idea/
+/out/
+/*.iml
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/.apt_generated
+/.factorypath
+/.springBeans
+/.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+# Maven
+/target/
+/!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# VS Code
+/.vscode/
+
+# Mac OS
+.DS_Store
+
+# Arquivos de compilação e executáveis
+*.class
+*.jar
+
+# Arquivos de configuração sensíveis
+config.properties
