@@ -17,6 +17,8 @@ Repositório com projetos profissionais em Java, mostrando habilidades práticas
 
 ---
 
+> **Observação:** Cada projeto possui um `README.md` próprio dentro da subpasta explicando em detalhes o funcionamento, tecnologias utilizadas e instruções de execução.
+
 ## Contato
 - **Daniel Machado**
 - Email: danioliver050@outlook.com
